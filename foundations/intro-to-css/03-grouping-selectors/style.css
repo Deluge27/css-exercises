@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+.first {
+    color: white;
+    background-color: rgba(0, 0, 255, 0.8);
+}
+
+.second {
+    background-color: hsl(60, 100%, 50%);
+}
+
+.first, .second {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman",sans-serif;
+}
